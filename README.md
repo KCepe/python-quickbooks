@@ -1,1 +1,1 @@
-# python-quickbooks
+# python-quickresume
