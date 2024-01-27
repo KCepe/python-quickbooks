@@ -1,13 +1,2 @@
-The Pinterest Apprenticeship Program is an opportunity for candidates from non-traditional backgrounds and those who face barriers of entry into the tech industry to experience Engineering at Pinterest. Apprenticeships are up to one year long with the opportunity to be considered for conversion to a full-time Engineer. Employment throughout the program is at will, and while programs can be up to one year in length, there is no guarantee on the specific length of the program. People who identify as women, Black/African American, Latiné or Hispanic, American Indian, Alaskan Native, Native Hawaiian, and/or Pacific Islander and LGBTQ+ are especially encouraged to apply although the apprenticeship program is not exclusive to these groups. Applications will close on Monday, January 29 at 9:00am PST. The program start date will be May 6, 2024.
-What you’ll do:
-* Work alongside other Pinterest Engineers and key partners on our Design, Research, and Product Management teams on a high-impact project
-* Collaborate with an assigned mentor who will help you navigate the challenges associated with being an Engineer at Pinterest
-* Continually grow — professionally and personally through various learning and development opportunities
-What we’re looking for:
-* Candidates from non-traditional tech backgrounds, including but not limited to: coding bootcamp grads, candidates looking to re-enter the tech workforce, candidates who are self-taught, and those who do not hold a computer science degree or related professional experience in Software Engineering roles.
-* Self-motivated and eager candidates with a passion to learn to code and curiosity to learn what it’s like to work and succeed as a Engineer at Pinterest
-* 1+ years of experience working collaboratively and clearly communicating in a professional work environment preferred
-* Apprentices are expected to generally work 40+ hours per week. As such, students currently enrolled in a Bachelors, Masters, or PhD program are not eligible for this position.
-* Proficiency in at least one programming language`
-This position is not eligible for relocation assistance.
-
+python-docx==0.8.10
+pyttsx3==2.90
